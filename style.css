@@ -1,0 +1,13 @@
+.card {
+    background-color: antiquewhite;
+    border-radius: 5px;
+    height: 410px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
+}
+
+.form {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
